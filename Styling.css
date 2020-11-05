@@ -9,9 +9,11 @@
     cursor: pointer;
     border-radius: 35px;
   }
+
 body{
     background-color: #ffaa80;
   }
+
 #min,#sec{
   font-size: 30px;
   background: #ffccff;
@@ -21,6 +23,7 @@ body{
   display:inline-block !important;
   margin-right:2px;
   }
+
 .c2{
   display:inline-block;
   }
