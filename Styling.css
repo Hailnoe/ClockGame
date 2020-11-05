@@ -1,0 +1,31 @@
+.b1 {
+    background-color: #66a3ff;
+    border:3px solid #000066;
+    padding: 30px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px 10px;
+    cursor: pointer;
+    border-radius: 35px;
+  }
+body{
+    background-color: #ffaa80;
+  }
+#min,#sec{
+  font-size: 30px;
+  background: #ffccff;
+  }
+  
+.c1{
+  display:inline-block !important;
+  margin-right:2px;
+  }
+.c2{
+  display:inline-block;
+  }
+  
+p{
+  font-size: 20px;
+  }
+  
